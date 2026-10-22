@@ -1,7 +1,8 @@
 name: lightcraft
+
 title: LightCraft
 base: core24
-version: '0.12.0'
+version: '0.12.1'
 summary: Photo library and non-destructive raw developer
 description: |
   LightCraft is an open-source, native photo library and raw developer for organising photos and developing raw files non-destructively.
