@@ -1,6 +1,6 @@
 name: lightcraft
 title: LightCraft
-base: core24
+base: core26
 version: '0.21.1'
 summary: Photo library and non-destructive raw developer
 description: |
